@@ -84,7 +84,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -127,7 +128,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -140,7 +142,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -201,7 +204,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -214,7 +218,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -227,7 +232,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -240,7 +246,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -306,7 +313,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -14506,12 +14514,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xB55Ea0F75c04C19996ad0341f1AA2DfDa997c091",
-      "transactionHash": "0xe056f32200326dee84d3ba25b3c398033ed3ed38c4c400baf33c4c4371113efd"
+      "address": "0x418F729009F16c3Cd068e2D66e2Fa81A0d433158",
+      "transactionHash": "0xc0aa0b886980309f3ed88aa2dfa3c604a4933250cb6caaf3e988f8311c5e211f"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-05-29T04:59:36.914Z",
+  "updatedAt": "2021-05-29T05:01:02.826Z",
+  "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
     "methods": {
